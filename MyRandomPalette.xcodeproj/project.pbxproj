@@ -38,7 +38,6 @@
 		2D3FF779203880060061D6C1 = {
 			isa = PBXGroup;
 			children = (
-				2D3FF7972039DDF10061D6C1 /* Images */,
 				2D3FF784203880070061D6C1 /* MyRandomPalette */,
 				2D3FF783203880070061D6C1 /* Products */,
 			);
@@ -63,13 +62,6 @@
 				2D3FF791203880070061D6C1 /* Info.plist */,
 			);
 			path = MyRandomPalette;
-			sourceTree = "<group>";
-		};
-		2D3FF7972039DDF10061D6C1 /* Images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
